@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alejandro",
+      "lastname": "Santangelo",
+      "email": "santangelo_cacho@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Chiara",
+      "lastname": "Seco",
+      "email": "seco_chiara@hotmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Paz",
+      "lastname": "Santangelo",
+      "email": "paz_santangelo@hotmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Roxana",
+      "lastname": "Mancuello",
+      "email": "mancuello_roxi@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Diego",
+      "lastname": "Picinalli",
+      "email": "diego_picinalli@live.com"
+    },
+    {
+      "id": 6,
+      "name": "Mariano",
+      "lastname": "Oliva",
+      "email": "oliva_marian@hotmail.com"
+    },
+    {
+      "id": "244",
+      "name": "Tobias",
+      "lastname": "Tinaro",
+      "email": "tinaro_tobias@gmail.com"
+    }
+  ]
+}

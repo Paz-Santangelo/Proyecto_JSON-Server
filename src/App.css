@@ -1,0 +1,46 @@
+body {
+    background: #000;
+    color: aliceblue;
+    padding: 2rem;
+}
+
+
+/* Formulario */
+form {
+    max-width: 20rem;
+}
+
+.form-label {
+    margin-top: 1rem;
+}
+
+.btn-form {
+    margin: 1rem 1rem 1rem 0;
+}
+
+
+/* Tabla */
+.table-container {
+    margin-top: 2rem;
+}
+
+.btn-danger {
+    margin-left: 1rem;
+}
+
+@media (width <=992px) {
+    .btn-danger {
+        margin-left: 0rem;
+    }
+}
+
+@media (width <=768px) {
+
+    .buttons {
+        text-align: center;
+    }
+
+    .btn-sm {
+        margin: .3rem;
+    }
+}
